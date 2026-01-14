@@ -1,0 +1,95 @@
+Added Component: Designator=H1(header 24)
+Added Component: Designator=H2(header 24)
+Added Pin To Net: NetName=1_39 Pin=H1-3
+Added Pin To Net: NetName=1_4 Pin=H1-4
+Added Pin To Net: NetName=1_5 Pin=H1-5
+Added Pin To Net: NetName=1_6 Pin=H1-6
+Added Pin To Net: NetName=1_7 Pin=H1-7
+Added Pin To Net: NetName=1_8 Pin=H1-8
+Added Pin To Net: NetName=1_9 Pin=H1-9
+Added Pin To Net: NetName=1_10 Pin=H1-10
+Added Pin To Net: NetName=1_11 Pin=H1-11
+Added Pin To Net: NetName=1_12 Pin=H1-12
+Added Pin To Net: NetName=1_13 Pin=H1-13
+Added Pin To Net: NetName=1_14 Pin=H1-14
+Added Pin To Net: NetName=1_15 Pin=H1-15
+Added Pin To Net: NetName=1_16 Pin=H1-16
+Added Pin To Net: NetName=1_17 Pin=H1-17
+Added Pin To Net: NetName=1_18 Pin=H1-18
+Added Pin To Net: NetName=1_19 Pin=H1-19
+Added Pin To Net: NetName=1_20 Pin=H1-20
+Added Pin To Net: NetName=1_21 Pin=H1-21
+Added Pin To Net: NetName=1_22 Pin=H1-22
+Added Pin To Net: NetName=1_23 Pin=H1-23
+Added Pin To Net: NetName=1_24 Pin=H1-24
+Added Pin To Net: NetName=1_25 Pin=H2-1
+Added Pin To Net: NetName=+13V Pin=H2-2
+Added Pin To Net: NetName=1_27 Pin=H2-3
+Added Pin To Net: NetName=1_29 Pin=H2-5
+Added Pin To Net: NetName=1_30 Pin=H2-6
+Added Pin To Net: NetName=1_31 Pin=H2-7
+Added Pin To Net: NetName=1_32 Pin=H2-8
+Added Pin To Net: NetName=1_33 Pin=H2-9
+Added Pin To Net: NetName=1_34 Pin=H2-10
+Added Pin To Net: NetName=1_35 Pin=H2-11
+Added Pin To Net: NetName=1_36 Pin=H2-12
+Added Pin To Net: NetName=1_37 Pin=H2-13
+Added Pin To Net: NetName=1_38 Pin=H2-14
+Added Pin To Net: NetName=1_39 Pin=H2-15
+Added Pin To Net: NetName=1_40 Pin=H2-16
+Added Pin To Net: NetName=1_41 Pin=H2-17
+Added Pin To Net: NetName=1_42 Pin=H2-18
+Added Pin To Net: NetName=1_43 Pin=H2-19
+Added Pin To Net: NetName=1_44 Pin=H2-20
+Added Pin To Net: NetName=1_45 Pin=H2-21
+Added Pin To Net: NetName=1_46 Pin=H2-22
+Added Pin To Net: NetName=+13V Pin=H2-23
+Added Pin To Net: NetName=1_48 Pin=H2-24
+Added Pin To Net: NetName=1_39 Pin=R4-1
+Added Pin To Net: NetName=1_39 Pin=R6-2
+Added Pin To Net: NetName=1_39 Pin=R-1
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Change Net Name : Old Net Name=+13V New Net Name=1_26
+Change Net Name : Old Net Name=1_39 New Net Name=1_3
+Added Pin To Net: NetName=1_1 Pin=H1-1
+Added Net: Name=1_1
+Added Pin To Net: NetName=1_2 Pin=H1-2
+Added Net: Name=1_2
+Added Pin To Net: NetName=1_28 Pin=H2-4
+Added Net: Name=1_28
+Added Member To Class: ClassName=Y1 Member=Component H1 Header 24
+Added Member To Class: ClassName=Y1 Member=Component H2 Header 24
+Add Class Member: Failed to add class member : Component U2 KP1-CD4052
+Add Class Member: Failed to add class member : Component U3 OP07
+Add Class Member: Failed to add class member : Component U4 OP07
+Add Class Member: Failed to add class member : Component U6 OP07

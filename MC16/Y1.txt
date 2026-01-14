@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : D:\WORK\Nhiem_vu\MACH_CK\Mc16\MC16\Y1.PcbDoc
+Date         : 1/11/2026
+Time         : 5:45:25 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 38.354mmx35.814mm
+    Components on board, 69
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 154
+    Connections routed, 154
+    Connections remaining, 0
+count : 4

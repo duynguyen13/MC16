@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=1_45 Pin=H2-24
+Removed Pin From Net: NetName=1_45 Pin=R7-1
+Removed Pin From Net: NetName=1_45 Pin=U2-16
+Added Pin To Net: NetName=1_48 Pin=H2-24
+Added Pin To Net: NetName=1_48 Pin=R7-1
+Added Pin To Net: NetName=1_48 Pin=U2-16
+Added Net: Name=1_48
